@@ -1,0 +1,8 @@
+# Ignore raw source code and build files for binary release repo
+Source/
+CMakeLists.txt
+build/
+.vs/
+*.obj
+*.pdb
+*.ilk
